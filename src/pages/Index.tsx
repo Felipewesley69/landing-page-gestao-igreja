@@ -22,7 +22,7 @@ const Index = () => {
         <div className="container mx-auto px-4 h-16 flex items-center justify-between">
           <div className="flex items-center space-x-2">
             <Church className="w-8 h-8 text-primary" />
-            <span className="text-xl font-bold text-foreground">ChurchManager</span>
+            <span className="text-xl font-bold text-foreground">Gestão Igreja</span>
           </div>
           <Button variant="outline">Entrar em Contato</Button>
         </div>
@@ -151,8 +151,8 @@ const Index = () => {
               <div className="text-muted-foreground">Segurança dos Dados</div>
             </div>
             <div>
-              <div className="text-4xl font-bold text-primary mb-2">24/7</div>
-              <div className="text-muted-foreground">Suporte Disponível</div>
+              <div className="text-4xl font-bold text-primary mb-2">100%</div>
+              <div className="text-muted-foreground">Curso de Uso Completo</div>
             </div>
           </div>
         </div>
@@ -185,10 +185,10 @@ const Index = () => {
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="flex items-center space-x-2 mb-4 md:mb-0">
               <Church className="w-6 h-6 text-primary" />
-              <span className="font-semibold">ChurchManager</span>
+              <span className="font-semibold">Gestão Igreja</span>
             </div>
             <div className="text-sm text-muted-foreground">
-              © 2024 ChurchManager. Todos os direitos reservados.
+              © 2025 Gestão Igreja. Todos os direitos reservados.
             </div>
           </div>
         </div>
